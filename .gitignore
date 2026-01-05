@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Outputs (keep folder but not generated files)
+outputs/*.png
+outputs/*.gif
+outputs/*.mp4
+outputs/*.webp
+
+# Keep this so the folder exists
+!outputs/.gitkeep
